@@ -3,11 +3,28 @@ Certainly! Here's a list of Node.js interview questions that might be relevant f
 ### General Node.js Questions:
 
 1. **Explain the event-driven architecture of Node.js.**
+   1. Event Loop
+   2. Single-Threaded & Non-blocking I/O
+   3. Event Emitters
+   4. Listeners & Callback
+   5. Async Callback
+   6. Event Queue
+   7. Concurrency & Scalability
+   8. Callbacks for I/O operations
+   9. Error handling
+   10. Event driven modules
+   11. Real Time applications
 2. **What is the event loop in Node.js, and how does it work?**
 3. **Describe the role of the `require` function in Node.js.**
 4. **What is the purpose of the `module.exports` and `exports` objects in Node.js?**
+   1. Reference Break
 5. **Explain the concept of non-blocking I/O in Node.js.**
 6. **How does Node.js handle child processes?**
+   1. child_process - module
+   2. spawn - launches a new process
+   3. exec - execute command in a shell
+   4. execFile - same as exec but does not spawn a shell
+   5. fork - variation of spawn but run a spearate Node.Js module as a process & communicate through IPC
 7. **What is the role of the `package.json` file in a Node.js application?**
 8. **Differentiate between `process.nextTick` and `setImmediate`.**
 

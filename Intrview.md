@@ -24,6 +24,11 @@
         - Python
           - Have on & off experience. Worked on some projects including Python
           - Have worked on Django framwork
+        - Experience across various domains
+          - domain
+            - healthcare
+            - fintech
+            - social media
    - Emphasize your achievements, such as optimizing a real-time audio conference app, constructing a scalable notification system, and implementing a central authentication system at GlueLabs.
      - For real-time audio conference app
        - Refactoring the code
